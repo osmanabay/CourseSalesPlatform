@@ -33,7 +33,7 @@ namespace FreeCource.Services.Catalog.Services
         {
             var category = _mapper.Map<Category>(categoryDto);
             await _categoryCollection.InsertOneAsync(category);
-            return Response<CategoryDto>.Success(_mapper.Map<CategoryDto>(categoryDto), 200);
+            return Response<CategoryDto>.Success(_mapper.Map<CategoryDto>(category), 200);
         }
 
         public async Task<Response<CategoryDto>> GetByIdAsync(string id)

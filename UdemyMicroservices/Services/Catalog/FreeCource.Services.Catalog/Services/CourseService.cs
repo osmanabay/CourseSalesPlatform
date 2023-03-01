@@ -1,4 +1,4 @@
-﻿using AutoMapper;
+﻿ using AutoMapper;
 using FreeCource.Services.Catalog.Dtos;
 using FreeCource.Services.Catalog.Models;
 using FreeCource.Services.Catalog.Settings;
