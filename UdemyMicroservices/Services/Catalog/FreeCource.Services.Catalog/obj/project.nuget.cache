@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "bUmpMmCkfa59O3otmYgvf72WjrhL2+4HDVO10y8B786Le1cC0dEHsYkkqOY7IY0dlQAP6QUhUrt2hfCOT53CbQ==",
+  "dgSpecHash": "ea+cRCvY3TzU1F4Og9HLaEsbfQwpcHQbJQIpd2SbjS7WpfhEOTynidItDZGLC7r1c3gK2yYCgii1OraDJDsnng==",
   "success": true,
   "projectFilePath": "D:\\Examples\\Udemy Course Sales Platform\\CourseSalesPlatform\\UdemyMicroservices\\Services\\Catalog\\FreeCource.Services.Catalog\\FreeCource.Services.Catalog.csproj",
   "expectedPackageFiles": [
