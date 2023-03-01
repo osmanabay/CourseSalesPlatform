@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "m0a1hJ69clk3AybMpI6rM2CipMJamHxmXEZiTSxL+cMd+MBZHT7o+7+2UTQiC6ccsDXYuKOpFsSCHh8jCP7G5A==",
+  "dgSpecHash": "ZtrrLqjg1RQqUn4jnxYc5S7Y/s8Q3YN1OVqS3Xp26L31eI1Lv6nwWmqMueWdmHZcd/AWikds+QmtaoD+3YQOGQ==",
   "success": true,
   "projectFilePath": "D:\\Examples\\Udemy Course Sales Platform\\CourseSalesPlatform\\UdemyMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj",
   "expectedPackageFiles": [
