@@ -31,3 +31,10 @@ D:\Examples\Udemy Course Sales Platform\CourseSalesPlatform\UdemyMicroservices\S
 D:\Examples\Udemy Course Sales Platform\CourseSalesPlatform\UdemyMicroservices\Services\Basket\FreeCourse.Services.Basket\obj\Debug\net5.0\ref\FreeCourse.Services.Basket.dll
 D:\Examples\Udemy Course Sales Platform\CourseSalesPlatform\UdemyMicroservices\Services\Basket\FreeCourse.Services.Basket\obj\Debug\net5.0\FreeCourse.Services.Basket.pdb
 D:\Examples\Udemy Course Sales Platform\CourseSalesPlatform\UdemyMicroservices\Services\Basket\FreeCourse.Services.Basket\obj\Debug\net5.0\FreeCourse.Services.Basket.genruntimeconfig.cache
+D:\Examples\Udemy Course Sales Platform\CourseSalesPlatform\UdemyMicroservices\Services\Basket\FreeCourse.Services.Basket\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Examples\Udemy Course Sales Platform\CourseSalesPlatform\UdemyMicroservices\Services\Basket\FreeCourse.Services.Basket\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Examples\Udemy Course Sales Platform\CourseSalesPlatform\UdemyMicroservices\Services\Basket\FreeCourse.Services.Basket\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Examples\Udemy Course Sales Platform\CourseSalesPlatform\UdemyMicroservices\Services\Basket\FreeCourse.Services.Basket\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Examples\Udemy Course Sales Platform\CourseSalesPlatform\UdemyMicroservices\Services\Basket\FreeCourse.Services.Basket\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Examples\Udemy Course Sales Platform\CourseSalesPlatform\UdemyMicroservices\Services\Basket\FreeCourse.Services.Basket\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Examples\Udemy Course Sales Platform\CourseSalesPlatform\UdemyMicroservices\Services\Basket\FreeCourse.Services.Basket\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
