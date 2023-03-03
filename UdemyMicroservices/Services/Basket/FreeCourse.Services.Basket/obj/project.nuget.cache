@@ -1,15 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "mIHmp2uQEJ4UoODKD6F1/TKaY8PjsCoUmLBjwaPlMfdC4K+i3Q3r7wOU1dIvpVsHJQ/ueiSa839TIWm6GfKdqA==",
+  "dgSpecHash": "FhG3cBOTlceAWAK3WSXrwl4Y6zknvH2OC1WNKPG1dGRIkKANhk05A0AtRHh/m5OTqtSqAgT1avVWILGXPtGC0A==",
   "success": true,
   "projectFilePath": "D:\\Examples\\Udemy Course Sales Platform\\CourseSalesPlatform\\UdemyMicroservices\\Services\\Basket\\FreeCourse.Services.Basket\\FreeCourse.Services.Basket.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Abay\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Abay\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Abay\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.2\\pipelines.sockets.unofficial.2.2.2.nupkg.sha512",
+    "C:\\Users\\Abay\\.nuget\\packages\\stackexchange.redis\\2.6.96\\stackexchange.redis.2.6.96.nupkg.sha512",
     "C:\\Users\\Abay\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\Abay\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\Abay\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "C:\\Users\\Abay\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+    "C:\\Users\\Abay\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\Abay\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
   ],
   "logs": []
 }
