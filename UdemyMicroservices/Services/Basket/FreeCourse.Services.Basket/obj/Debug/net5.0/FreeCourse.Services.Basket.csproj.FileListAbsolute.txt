@@ -38,3 +38,4 @@ D:\Examples\Udemy Course Sales Platform\CourseSalesPlatform\UdemyMicroservices\S
 D:\Examples\Udemy Course Sales Platform\CourseSalesPlatform\UdemyMicroservices\Services\Basket\FreeCourse.Services.Basket\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\Examples\Udemy Course Sales Platform\CourseSalesPlatform\UdemyMicroservices\Services\Basket\FreeCourse.Services.Basket\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 D:\Examples\Udemy Course Sales Platform\CourseSalesPlatform\UdemyMicroservices\Services\Basket\FreeCourse.Services.Basket\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Examples\Udemy Course Sales Platform\CourseSalesPlatform\UdemyMicroservices\Services\Basket\FreeCourse.Services.Basket\obj\Debug\net5.0\FreeCourse.Services.Basket.csproj.CopyComplete
